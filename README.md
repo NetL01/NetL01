@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @NetL01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-NetL01/NetL01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in web-programming, football and good music. 
+- 🌱 I’m currently learning JS, Kotlin
+- 💞️ I’m looking to collaborate on web application development
+- 📫 How to reach me vk.com/pentesterneloh

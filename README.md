@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @NetL01
-- 👀 I’m interested in web-programming, football and good music. 
-- 🌱 I’m currently learning JS, Kotlin
-- 💞️ I’m looking to collaborate on web application development
-- 📫 U can reach me vk.com/pentesterneloh
+
+- 📫 U can find me at vk.com/pentesterneloh

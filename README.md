@@ -2,4 +2,4 @@
 - 👀 I’m interested in web-programming, football and good music. 
 - 🌱 I’m currently learning JS, Kotlin
 - 💞️ I’m looking to collaborate on web application development
-- 📫 How to reach me vk.com/pentesterneloh
+- 📫 U can reach me vk.com/pentesterneloh
